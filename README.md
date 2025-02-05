@@ -1,4 +1,5 @@
 # postmarketOS-iphone6-n61
-Linux Distro on Iphone 6 (PostmarketOS) Build (Unofficial)
+Linux Distro on Iphone 6 (PostmarketOS) Build 
 
-thanks for starting reading it, there will be posted al binaries and progs soon, please wait
+Thanks for starting reading this guide, i recommend to use ArchLinux for installing PostmarketOS on your device 
+First that you should to do is install [pmbootstrap]https://wiki.postmarketos.org/wiki/Pmbootstrap#Installation[pmbootstrap]
